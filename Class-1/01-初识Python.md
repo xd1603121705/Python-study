@@ -1,4 +1,4 @@
-###1.The Zen of Python. （Python之禅）  
+### 1.The Zen of Python. （Python之禅）  
 Beautiful is better than ugly. （优美比丑陋好）  
 Explicit is better than implicit.（清晰比晦涩好）  
 Simple is better than complex.（简单比复杂好）  
@@ -19,6 +19,6 @@ If the implementation is hard to explain, it's a bad idea.（如果一个实现�
 If the implementation is easy to explain, it may be a good idea.（如果一个实现方案易于理解，它很有可能是一个好的方案）  
 Namespaces are one honking great idea -- let's do more of those!（命名空间非常有用，我们应当多加利用）  
 
-###2.Python注释  
+### 2.Python注释  
  - 单行注释 - 以#和空格开头的部分  
  - 多行注释 - 三个引号开头，三个引号结束
